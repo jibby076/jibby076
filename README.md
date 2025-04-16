@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jibby076
 - 👀 I’m interested in computer engineering
 - 🌱 I’m currently learning to code in c++ language
-- 💞️ I’m looking to collaborate on anything ang everything
+- 💞️ I’m looking to collaborate on anything and everything
 - 📫 best way to reach me is on instagram (jibreel._.adam)
 - 😄 Pronouns: pew pew , ratatatatatata
 - ⚡ Fun fact: i wanna build a game one day cos i love games
